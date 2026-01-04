@@ -1,2 +1,3 @@
-# Personal-Projects
-Pequenos projetos usados como estudo e pratica usando a principio a linguegem python, pretendo expandir para java e tambem outras linguagens
+Repositório de Estudos - Danilo Santos
+Este repositório contém exercícios e projetos desenvolvidos durante minha graduação em ADS na Unyleya e meus estudos autodidatas em Python.
+Tecnologias: Python 
